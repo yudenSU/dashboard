@@ -1,0 +1,20 @@
+@import '../../sassStyles/variables';
+
+.text-link {
+    color: inherit; 
+    text-decoration:  inherit;
+}
+
+li {
+    display: inline-flex;
+    padding-left: 20px;    
+    padding-right: 20px;    
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+
+li:hover {
+    color: $hover-color;
+    
+}
