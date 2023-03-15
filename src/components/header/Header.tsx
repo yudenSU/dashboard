@@ -2,7 +2,7 @@ import React from "react";
 import NavBar from "../navBar/NavBar";
 import './Header.scss'
 
-function Header() {
+const Header: React.FC = () => {
     return (
         <div className="main-header">
             <header> 

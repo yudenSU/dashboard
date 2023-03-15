@@ -1,0 +1,17 @@
+.projects-page {
+    margin-top: 3rem;
+    margin-left: 2.5rem;
+}
+#project-heading {
+    margin-bottom: 2rem;
+}
+
+.input-field {
+    display:grid;
+    grid-template-columns: max-content max-content;
+    grid-gap:5px;
+}
+
+label {
+    align-self: center;
+}

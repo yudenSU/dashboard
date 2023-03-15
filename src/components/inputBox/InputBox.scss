@@ -1,0 +1,9 @@
+@import '../../sassStyles/variables';
+
+input[type=text] {
+    border: 1px solid gray;
+    font-size: 1rem;
+    font-weight: 200;
+    border-radius: 4px;
+    padding: 10px;
+}
