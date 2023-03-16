@@ -1,0 +1,19 @@
+
+@import '../../sassStyles/variables';
+
+.project-card {
+    margin-top: 2rem;
+    min-height: 6rem;
+    width: 40rem;
+    padding: 1rem;
+    background-color: rgb(246, 246, 246);
+    border-color: $line-color;
+    border-radius: 5px;
+    border-style: hidden hidden solid;
+    border-width: 1px;
+}
+
+#project-card-info {
+    margin: auto;
+    display: block;
+}
